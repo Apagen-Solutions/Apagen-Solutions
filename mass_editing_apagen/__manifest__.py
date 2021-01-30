@@ -1,5 +1,5 @@
 {
-    'name': 'Mass Editing',
+    'name': 'Mass Editing Apagen',
     'version': '11.0.1.0.0',
     'author': 'Apagen Solution Pvt. Ltd. ',
     'category': 'Tools',
